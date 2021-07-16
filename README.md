@@ -1,2 +1,2 @@
 # python-cheats
-some little python codes
+some maybe usefull python codes :))
